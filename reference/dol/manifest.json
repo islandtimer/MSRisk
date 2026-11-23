@@ -1,0 +1,33 @@
+{
+  "run_timestamp_utc": "2026-11-06T01:00:57+00:00",
+  "source": "https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods",
+  "edition": 2024,
+  "file": "2024ListofGoodsExcel.xlsx",
+  "bytes": 34933,
+  "sha256": "0f4bc89d4f026808fd9e2242056e993dc008afa2829da159cf70903d7888ee97",
+  "goods_rows": 478,
+  "distinct_goods": 169,
+  "countries": 80,
+  "forced_labor_rows": 138,
+  "child_labor_rows": 423,
+  "forced_child_labor_rows": 53,
+  "downstream_rows": 57,
+  "checks": {
+    "goods_rows": {
+      "passed": true,
+      "detail": "478 sheet rows -> 478 country-good rows after expanding combined entries"
+    },
+    "any_flag": {
+      "passed": true,
+      "detail": "every row has at least one exploitation flag"
+    },
+    "iso_complete": {
+      "passed": true,
+      "detail": "every country/area matched to an ISO code"
+    },
+    "no_duplicate_pairs": {
+      "passed": true,
+      "detail": "country-good pairs unique"
+    }
+  }
+}

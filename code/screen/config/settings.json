@@ -1,0 +1,26 @@
+{
+  "_note": "Conventions, not risk thresholds. Each is disclosed in the screening output. Edit and re-run.",
+  "core_population_spend_share": 0.80,
+  "country_indicator": {
+    "_rule": "A country is flagged when its GSI 2023 prevalence per 1,000 is at or above this percentile of the 160 countries with an estimate, OR its GSI vulnerability total is at or above vulnerability_pct.",
+    "prevalence_percentile": 0.6667,
+    "vulnerability_pct": 50
+  },
+  "country_aliases": {"AU": "AUS", "UK": "GBR", "US": "USA", "USA": "USA", "Vietnam": "VNM", "South Korea": "KOR", "Russia": "RUS", "Turkey": "TUR"},
+  "labour_hire_keywords_regex": "\\b(labour hire|labor hire|casual labour|contract staff|subcontract\\w*|owner-drivers?|agency staff|crews?)\\b",
+  "user_nominated_vendors": ["Nominated Supplier Holdings"],
+  "spend_file": {
+    "sheet": "AP Spend",
+    "columns": {
+      "vendor_id": "Vendor ID",
+      "vendor_name": "Vendor Name",
+      "country": "Country",
+      "gl_code": "GL Account",
+      "gl_description": "GL Description",
+      "description": "Line Description",
+      "amount": "Amount (AUD)"
+    },
+    "currency": "AUD",
+    "period": "FY2025 (1 Jul 2024 - 30 Jun 2025)"
+  }
+}

@@ -1,0 +1,16 @@
+product,keywords_regex,gsi_g20_product,dol_good_names,dol_downstream_names
+garments,"\b(garments?|apparel|workwear|uniforms?|shirts?|t-shirts?|hi-vis|caps?|clothing)\b",garments,Garments,Garments (Cotton)
+textiles,"\b(textiles?|fabric|tote bags?|cotton)\b",textiles,Textiles|Textiles (hand-woven)|Embellished Textiles|Thread/Yarn|Cotton,Textiles (Cotton)|Thread/Yarn (Cotton)
+electronics,"\b(laptops?|monitors?|docking stations?|electronics?|phones?|tablets?|computers?)\b",electronics,Electronics,
+solar panels,"\b(solar panels?|photovoltaic|pv modules?|polysilicon)\b",solar panels,Polysilicon|Metallurgical Grade Silicon,Photovoltaic Ingots|Photovoltaic Wafers|Solar Cells|Solar Modules
+fish,"\b(fish|seafood|prawns?|shrimp|tuna)\b",fish,Fish|Shrimp|Shellfish|Squid|Lobsters|Dried Fish|Tilapia (fish)|Nile Perch (fish),Fishmeal|Fish Oil
+coffee,"\bcoffee\b",coffee,Coffee,
+cocoa,"\b(cocoa|chocolate)\b",cocoa,Cocoa,Chocolate|Cocoa Butter|Cocoa Paste|Cocoa Powder
+palm oil,"\bpalm oil\b",palm oil,Palm Fruit,Crude Palm Oil|Refined Palm Oil|Crude Palm Kernel Oil|Refined Palm Kernel Oil|Cooking Oil (Palm Oil Blends)|Oleochemicals
+timber,"\b(timber|hardwood|pallets?|wood|lumber)\b",timber,Timber|Lumber|Teak,
+rubber gloves,"\b(rubber gloves|nitrile|disposable gloves|gloves)\b",,Rubber Gloves|Gloves,
+sugarcane,"\b(sugar|sugarcane)\b",sugarcane,Sugarcane,Raw Sugar|Refined Sugar|Molasses
+gold,"\bgold\b",gold,Gold,
+coal,"\bcoal\b",coal,Coal,
+rice,"\brice\b",rice,Rice,
+cattle,"\b(beef|cattle)\b",cattle,Cattle|Beef|Bovines,

@@ -1,0 +1,64 @@
+﻿input_iso,input_country,input_good,child_labor,forced_labor,downstream_iso,downstream_country,downstream_good,downstream_goods_at_risk,edition
+BOL,Bolivia,Zinc,True,False,KOR,South Korea,Indium,"Conductive Glass,Touchscreen Devices, Flatscreen Devices, Televisions, Phones, Tablets, Semiconductors, Solar Panels, Indium-tin Oxide, and LEDs",2024
+CHN,China,Aluminum,False,True,CHN,China,Auto Parts and Components (Aluminum),"Automotive Vehicles, Aircrafts, Household Appliances, Healthcare Equipment, Electronics, Food Packaging, Beverage Cans, Construction Supplies and Tools",2024
+CHN,China,Cotton,False,True,CHN,China,Garments (Cotton),"Garments, Textiles, Cotton-Based Products",2024
+CHN,China,Cotton,False,True,CHN,China,Textiles (Cotton),"Garments, Textiles, Cotton-Based Products",2024
+CHN,China,Cotton,False,True,CHN,China,Thread/Yarn (Cotton),"Garments, Textiles, Cotton-Based Products",2024
+CHN,China,Cotton,False,True,VNM,Vietnam,Garments (Cotton),"Garments, Textiles, Cotton-Based Products",2024
+CHN,China,Polysilicon,False,True,CHN,China,Photovoltaic Ingots,"Silica-Based Products, Solar Products, Semiconductors",2024
+CHN,China,Polysilicon,False,True,CHN,China,Photovoltaic Wafers,"Silica-Based Products, Solar Products, Semiconductors",2024
+CHN,China,Polysilicon,False,True,CHN,China,Solar Cells,"Silica-Based Products, Solar Products, Semiconductors",2024
+CHN,China,Polysilicon,False,True,CHN,China,Solar Modules,"Silica-Based Products, Solar Products, Semiconductors",2024
+CIV,Côte d’Ivoire,Cocoa,True,False,CIV,Côte d’Ivoire,Chocolate,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire,Cocoa,True,False,CIV,Côte d’Ivoire,Cocoa Butter,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire,Cocoa,True,False,CIV,Côte d’Ivoire,Cocoa Paste,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire,Cocoa,True,False,CIV,Côte d’Ivoire,Cocoa Powder,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Chocolate,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Chocolate,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Butter,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Butter,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Paste,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Paste,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+CIV,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Powder,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Côte d’Ivoire and Ghana,Cocoa,True,False,NLD,Netherlands,Cocoa Powder,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+COD,Democratic Republic of the Congo,Cobalt Ore (heterogenite),True,False,CHN,China,Lithium-Ion Batteries,"Cell Phones, Electric Cars, Laptops, Medical Implants and Prosthetics, Turbine Blades,Vacuums, Aircraft Engines",2024
+COD,Democratic Republic of the Congo,Copper Ore,True,False,CHN,China,Electrolytic Copper Products,"Electric Vehicles, Electrical Equipment, Electrical Wiring, Brass, Steel, Telecommunications Products, Construction Materials",2024
+COD,Democratic Republic of the Congo,Copper Ore,True,False,CHN,China,Lithium-Ion Batteries,"Cell Phones, Electric Cars, Laptops, Medical Implants and Prosthetics, Turbine Blades,Vacuums, Aircraft Engines",2024
+COD,Democratic Republic of the Congo,Copper Ore,True,False,COD,Democratic Republic of the Congo,Copper Products,"Electric Vehicles, Electrical Equipment, Electrical Wiring, Brass, Steel, Telecommunications Products, Construction Materials",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Bagasse,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Furfural,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Molasses,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Raw Sugar,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Refined Sugar,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+DOM,Dominican Republic,Sugarcane,False,True,DOM,Dominican Republic,Rum,"Beverages, Alcoholic Beverages, Candy, Baked Goods, Processed Food Products, Animal Feed, Paper, Pulp, Construction Materials, Biofuels, Industrial
+Chemicals, Medicines, Medicinal Alcohol",2024
+GHA,Ghana,Cocoa,True,False,GHA,Ghana,Chocolate,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Ghana,Cocoa,True,False,GHA,Ghana,Cocoa Butter,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Ghana,Cocoa,True,False,GHA,Ghana,Cocoa Paste,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+GHA,Ghana,Cocoa,True,False,GHA,Ghana,Cocoa Powder,"Candy, Baked Goods, Beverages, Ice Cream, Cosmetic Products, Soap",2024
+IDN,Indonesia,Palm Fruit,True,True,IDN,Indonesia,Crude Palm Kernel Oil,"Cooking Oils, Animal Feed, Baked Goods, Biofuels, Beverages, Household and Industrial Products, Infant Formula, Personal Care Products and Cosmetic Products",2024
+IDN,Indonesia,Palm Fruit,True,True,IDN,Indonesia,Crude Palm Oil,"Cooking Oils, Animal Feed, Baked Goods, Biofuels, Beverages, Household and Industrial Products, Infant Formula, Personal Care Products and Cosmetic Products",2024
+IDN,Indonesia,Palm Fruit,True,True,IDN,Indonesia,Oleochemicals,"Cooking Oils, Animal Feed, Baked Goods, Biofuels, Beverages, Household and Industrial Products, Infant Formula, Personal Care Products and Cosmetic Products",2024
+IDN,Indonesia,Palm Fruit,True,True,IDN,Indonesia,Refined Palm Kernel Oil,"Cooking Oils, Animal Feed, Baked Goods, Biofuels, Beverages, Household and Industrial Products, Infant Formula, Personal Care Products and Cosmetic Products",2024
+IDN,Indonesia,Palm Fruit,True,True,IDN,Indonesia,Refined Palm Oil,"Cooking Oils, Animal Feed, Baked Goods, Biofuels, Beverages, Household and Industrial Products, Infant Formula, Personal Care Products and Cosmetic Products",2024
+MWI,Malawi,Tobacco,True,True,MWI,Malawi,Cigarettes (Tobacco),Tobacco Products,2024
+MWI,Malawi,Tobacco,True,True,RUS,Russia,Cigarettes (Tobacco),Tobacco Products,2024
+MWI,Malawi,Tobacco,True,True,UKR,Ukraine,Cigarettes (Tobacco),Tobacco Products,2024
+MYS,Malaysia,Palm Fruit,True,True,IND,India,Cooking Oil (Palm Oil Blends),"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Biofuel,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Cooking Oil (Palm Oil Blends),"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Crude Palm Kernel Oil,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Crude Palm Oil,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Oleochemicals,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Refined Palm Kernel Oil,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+MYS,Malaysia,Palm Fruit,True,True,MYS,Malaysia,Refined Palm Oil,"Animal Feed, Baked Goods, Beverages, Household and Industrial Products, Personal Care Products, Cosmetic Products, Infant Formula, Shortening, Pet Food",2024
+PHL,Philippines,Coconut,True,False,PHL,Philippines,Coconut Oil,"Animal Feed, Household and Industrial Items, Bakery Items, Personal Care and Cosmetic Products",2024
+PHL,Philippines,Coconut,True,False,PHL,Philippines,Copra Meal,"Animal Feed, Household and Industrial Items, Bakery Items, Personal Care and Cosmetic Products",2024
+THA,Thailand,Fish,False,True,THA,Thailand,Animal Feed,"Shrimp, Poultry, Cosmetics, Supplements, Pet Food",2024
+THA,Thailand,Fish,False,True,THA,Thailand,Fishmeal,"Shrimp, Poultry, Cosmetics, Supplements, Pet Food",2024
+THA,Thailand,Fish,False,True,THA,Thailand,Fish Oil,"Shrimp, Poultry, Cosmetics, Supplements, Pet Food",2024

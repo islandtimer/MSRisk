@@ -1,0 +1,89 @@
+{
+  "run_timestamp_utc": "2026-11-06T03:27:28+00:00",
+  "sources": {
+    "cbp": {
+      "raw_file": "cbp_wro_2026-09-29.csv",
+      "sha256": "ab09d08aa55f418fc1b0fffd3ac7e54ab09ea8325e778e88f4835c6d9b20ceae",
+      "rows": 69,
+      "published": "2026-09-29"
+    },
+    "uflpa": {
+      "raw_file": "uflpa_2026-11-06.html",
+      "sha256": "66d5ac4a92b72d607d5b2873f6287c12c1f7db0c639544265aeff3c513eabc71",
+      "rows": 210,
+      "page_last_updated": "10/28/2026",
+      "by_section": {
+        "2(d)(2)(B)(v)": 151,
+        "2(d)(2)(B)(ii)": 50,
+        "2(d)(2)(B)(i)": 9
+      }
+    },
+    "uk_msr": {
+      "raw_files": {
+        "uk_msr_2020.csv": {
+          "bytes": 8503754,
+          "sha256": "818dacf9eccf3e97cf83ecf1d4befd3535c7d7b1e1650d698670fbe44382a949"
+        },
+        "uk_msr_2021.csv": {
+          "bytes": 15827429,
+          "sha256": "7b7027fae617be17bfbcd8ab5e25450668bd96c411200a7692839105ecd69e29"
+        },
+        "uk_msr_2022.csv": {
+          "bytes": 11764855,
+          "sha256": "71d2ce90528797d22430a155308e61567b8b3ddfe37d77abc53605643cfea3e7"
+        },
+        "uk_msr_2023.csv": {
+          "bytes": 13996405,
+          "sha256": "d89d427a56436fe93655fcc517ac5f04b7fdf093acc4956f741405fe593ff5e8"
+        },
+        "uk_msr_2024.csv": {
+          "bytes": 17830846,
+          "sha256": "02454aeb9a058a74a5f1c3fecb5b1399f0e026f881ca1d74dea306a402c4e489"
+        },
+        "uk_msr_2025.csv": {
+          "bytes": 18980621,
+          "sha256": "7a7764a06b3dc923f3176b052bcf1398d670b826b80708da4cf75627f7f81e66"
+        },
+        "uk_msr_2026.csv": {
+          "bytes": 16795618,
+          "sha256": "9c91b29ee3d94421b1b279406b91a0050083cc5d2476fb628994fab611b170d8"
+        },
+        "uk_msr_2027.csv": {
+          "bytes": 263925,
+          "sha256": "6c2b0f4c58bc5822987b91f94826321c2b5d091a3d63ebe79d5a721ce05cbdb5"
+        }
+      },
+      "rows": 83737,
+      "by_year": {
+        "2020": 8479,
+        "2021": 15386,
+        "2022": 10233,
+        "2023": 11013,
+        "2024": 13051,
+        "2025": 13602,
+        "2026": 11810,
+        "2027": 163
+      }
+    }
+  },
+  "checks": {
+    "cbp_iso": {
+      "passed": true,
+      "detail": "69 WROs/Findings, all non-vessel rows have an ISO code"
+    },
+    "uflpa_dates": {
+      "passed": true,
+      "detail": "210 entities, every effective date parsed"
+    },
+    "names": {
+      "passed": true,
+      "detail": "453 names/aliases for matching"
+    }
+  },
+  "tables": {
+    "cbp_wro": 69,
+    "uflpa_entities": 210,
+    "uk_msr_statements": 83737,
+    "entity_names": 453
+  }
+}

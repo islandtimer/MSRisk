@@ -1,0 +1,21 @@
+figure_id,figure,value,unit,scope,printed_page,pdf_page,used_for,note
+fl_total,People in forced labour,27.6,million,"global, 2021",23,32,report context,
+fl_prevalence_global,Forced labour prevalence,3.5,per 1000 population,"global, 2021",23,32,report context,
+fl_prev_arab_states,Forced labour prevalence,5.3,per 1000 population,"Arab States, 2021",3,12,report context,
+fl_prev_europe_central_asia,Forced labour prevalence,4.4,per 1000 population,"Europe and Central Asia, 2021",3,12,report context,
+fl_prev_americas,Forced labour prevalence,3.5,per 1000 population,"Americas, 2021",3,12,report context,
+fl_prev_asia_pacific,Forced labour prevalence,3.5,per 1000 population,"Asia and the Pacific, 2021",3,12,report context,
+fl_prev_africa,Forced labour prevalence,2.9,per 1000 population,"Africa, 2021",3,12,report context,
+private_actor_share,Share of forced labour imposed by private actors,86,percent,"global, 2021",3,12,report context; supports private supply chain focus,
+private_economy_non_cse_share,Share in the private economy excluding commercial sexual exploitation,63,percent,"global, 2021",3,12,report context,
+state_imposed_share,Share that is state-imposed forced labour,14,percent,"global, 2021",3,12,report context,
+five_sectors_share,Share of adult forced labour exploitation in five sectors (services excl. domestic work; manufacturing; construction; agriculture excl. fishing; domestic work),87,percent,"global, adults, cases where type of work known",30,39,sector indicator rationale,
+sector_services,Share of adult forced labour exploitation: services (excluding domestic work),32.0,percent,"global, adults (5.5 million)",31,40,sector indicator rationale; modelling path sector shares,figure 8 on that page
+sector_manufacturing,Share of adult forced labour exploitation: manufacturing,18.7,percent,"global, adults (3.2 million)",31,40,sector indicator rationale; modelling path sector shares,text on p30 says about 3 million
+sector_construction,Share of adult forced labour exploitation: construction,16.3,percent,"global, adults (2.8 million)",31,40,sector indicator rationale; modelling path sector shares,text on p32 says 16 per cent and 2.6 million; the figure says 2.8m. Discrepancy in source
+sector_agriculture,Share of adult forced labour exploitation: agriculture (excluding fishing),12.3,percent,"global, adults (2.1 million)",31,40,sector indicator rationale; modelling path sector shares,text on p32 says 13 per cent
+sector_domestic_work,Share of adult forced labour exploitation: domestic work,8.2,percent,"global, adults (1.4 million)",31,40,sector indicator rationale; modelling path sector shares,
+sector_mining,Adults in forced labour in mining and quarrying,0.2,million,"global, adults (1.4 per cent)",31-32,40-41,sector indicator rationale,text: nearly a quarter-million
+sector_fishing,Fishers in forced labour aboard fishing vessels,128000,people,"global, adults",32,41,sector indicator rationale (fishing and seafood),
+migrant_multiplier,Forced labour prevalence of adult migrant workers relative to non-migrant adults,3,times (more than),"global, adults",4,13,vulnerable workforce indicator rationale (labour hire; migrant labour),
+coercion_wage_withholding,Share of adults in forced labour in the private economy subjected to systematic withholding of wages,36,percent,"global, adults, private economy",41,50,supplier questionnaire and research focus (wage practices),

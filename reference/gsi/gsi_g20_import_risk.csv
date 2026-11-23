@@ -1,0 +1,264 @@
+﻿product,origin_country,origin_iso,import_value_kusd,importer,importer_iso,trade_data_year
+coffee,Brazil,BRA,59467.390625,Argentina,ARG,2021
+electronics,China,CHN,1249672.75,Argentina,ARG,2021
+electronics,Malaysia,MYS,19968.828125,Argentina,ARG,2021
+garments,China,CHN,103033.625,Argentina,ARG,2021
+garments,Vietnam,VNM,16573.6484375,Argentina,ARG,2021
+garments,Bangladesh,BGD,11672.9140625,Argentina,ARG,2021
+garments,India,IND,6337.9150390625,Argentina,ARG,2021
+garments,Brazil,BRA,5914.15380859375,Argentina,ARG,2021
+garments,Malaysia,MYS,447.7640075683594,Argentina,ARG,2021
+solar panels,China,CHN,55545.00390625,Argentina,ARG,2021
+textiles,China,CHN,82025.21875,Argentina,ARG,2021
+electronics,China,CHN,8499583.0,Australia,AUS,2021
+electronics,Malaysia,MYS,387143.6875,Australia,AUS,2021
+fish,Thailand,THA,199155.703125,Australia,AUS,2021
+fish,China,CHN,75022.625,Australia,AUS,2021
+fish,Indonesia,IDN,73488.1171875,Australia,AUS,2021
+fish,Taiwan,TWN,39283.10546875,Australia,AUS,2021
+fish,Ghana,GHA,1.871999979019165,Australia,AUS,2021
+garments,China,CHN,4847261.0,Australia,AUS,2021
+garments,Bangladesh,BGD,814958.0,Australia,AUS,2021
+garments,Vietnam,VNM,400830.03125,Australia,AUS,2021
+garments,India,IND,298593.125,Australia,AUS,2021
+garments,Malaysia,MYS,25397.46875,Australia,AUS,2021
+garments,Brazil,BRA,1829.9189453125,Australia,AUS,2021
+garments,Argentina,ARG,32.96699905395508,Australia,AUS,2021
+solar panels,China,CHN,1302216.25,Australia,AUS,2021
+textiles,China,CHN,469839.375,Australia,AUS,2021
+electronics,China,CHN,1207778.25,Brazil,BRA,2021
+electronics,Malaysia,MYS,15137.2958984375,Brazil,BRA,2021
+garments,China,CHN,624306.625,Brazil,BRA,2021
+garments,Bangladesh,BGD,108725.3828125,Brazil,BRA,2021
+garments,Vietnam,VNM,52986.22265625,Brazil,BRA,2021
+garments,India,IND,46368.640625,Brazil,BRA,2021
+garments,Argentina,ARG,6384.6357421875,Brazil,BRA,2021
+garments,Malaysia,MYS,1963.406982421875,Brazil,BRA,2021
+palm oil,Indonesia,IDN,511463.8125,Brazil,BRA,2021
+palm oil,Malaysia,MYS,19312.892578125,Brazil,BRA,2021
+solar panels,China,CHN,2771296.5,Brazil,BRA,2021
+textiles,China,CHN,269508.90625,Brazil,BRA,2021
+electronics,China,CHN,11203647.0,Canada,CAN,2021
+electronics,Malaysia,MYS,76024.28125,Canada,CAN,2021
+garments,China,CHN,3068652.75,Canada,CAN,2021
+garments,Bangladesh,BGD,1278693.75,Canada,CAN,2021
+garments,Vietnam,VNM,1053656.75,Canada,CAN,2021
+garments,India,IND,259997.625,Canada,CAN,2021
+garments,Malaysia,MYS,12618.3046875,Canada,CAN,2021
+garments,Brazil,BRA,1309.072998046875,Canada,CAN,2021
+garments,Argentina,ARG,6.215999603271484,Canada,CAN,2021
+gold,Peru,PER,2097402.25,Canada,CAN,2021
+sugarcane,Brazil,BRA,427597.5,Canada,CAN,2021
+textiles,China,CHN,482486.25,Canada,CAN,2021
+cattle,Brazil,BRA,3907805.0,China,CHN,2021
+garments,Vietnam,VNM,1173538.125,China,CHN,2021
+garments,Bangladesh,BGD,404894.0,China,CHN,2021
+garments,India,IND,60243.65234375,China,CHN,2021
+garments,Malaysia,MYS,16997.626953125,China,CHN,2021
+garments,Brazil,BRA,357.7560119628906,China,CHN,2021
+garments,Argentina,ARG,24.065000534057617,China,CHN,2021
+palm oil,Indonesia,IDN,4902374.5,China,CHN,2021
+palm oil,Malaysia,MYS,1432821.375,China,CHN,2021
+sugarcane,Brazil,BRA,1408718.25,China,CHN,2021
+timber,Russia,RUS,3564089.5,China,CHN,2021
+timber,Brazil,BRA,322094.75,China,CHN,2021
+timber,Peru,PER,37307.8125,China,CHN,2021
+cocoa,Côte d'Ivoire,CIV,462434.375,France,FRA,2021
+cocoa,Ghana,GHA,172530.8125,France,FRA,2021
+electronics,China,CHN,2609763.0,France,FRA,2021
+electronics,Malaysia,MYS,13677.669921875,France,FRA,2021
+garments,China,CHN,4524305.5,France,FRA,2021
+garments,Bangladesh,BGD,1917573.5,France,FRA,2021
+garments,India,IND,682554.25,France,FRA,2021
+garments,Vietnam,VNM,564908.75,France,FRA,2021
+garments,Malaysia,MYS,6474.56884765625,France,FRA,2021
+garments,Brazil,BRA,2301.35009765625,France,FRA,2021
+garments,Argentina,ARG,577.3519897460938,France,FRA,2021
+solar panels,China,CHN,362405.8125,France,FRA,2021
+textiles,China,CHN,434278.375,France,FRA,2021
+coffee,Brazil,BRA,1064742.5,Germany,DEU,2021
+electronics,China,CHN,20319762.0,Germany,DEU,2021
+electronics,Malaysia,MYS,151569.5,Germany,DEU,2021
+garments,China,CHN,7993142.0,Germany,DEU,2021
+garments,Bangladesh,BGD,7785868.5,Germany,DEU,2021
+garments,India,IND,1301894.0,Germany,DEU,2021
+garments,Vietnam,VNM,1284307.625,Germany,DEU,2021
+garments,Malaysia,MYS,36160.421875,Germany,DEU,2021
+garments,Brazil,BRA,857.051025390625,Germany,DEU,2021
+garments,Argentina,ARG,51.32699966430664,Germany,DEU,2021
+solar panels,China,CHN,2425414.25,Germany,DEU,2021
+textiles,China,CHN,1620893.125,Germany,DEU,2021
+electronics,China,CHN,7345026.5,India,IND,2021
+electronics,Malaysia,MYS,432868.09375,India,IND,2021
+garments,China,CHN,753798.4375,India,IND,2021
+garments,Bangladesh,BGD,472834.46875,India,IND,2021
+garments,Vietnam,VNM,47222.45703125,India,IND,2021
+garments,Malaysia,MYS,7523.001953125,India,IND,2021
+garments,Brazil,BRA,78.27999877929688,India,IND,2021
+gold,Peru,PER,2143966.75,India,IND,2021
+gold,Burkina Faso,BFA,934503.125,India,IND,2021
+palm oil,Malaysia,MYS,4014696.0,India,IND,2021
+palm oil,Indonesia,IDN,3588847.75,India,IND,2021
+solar panels,China,CHN,3820664.0,India,IND,2021
+coal,China,CHN,432649.0,Indonesia,IDN,2021
+coal,Pakistan,PAK,0.236000001430511,Indonesia,IDN,2021
+electronics,China,CHN,2919522.25,Indonesia,IDN,2021
+electronics,Malaysia,MYS,77909.2265625,Indonesia,IDN,2021
+garments,China,CHN,563954.75,Indonesia,IDN,2021
+garments,Bangladesh,BGD,58743.51171875,Indonesia,IDN,2021
+garments,Vietnam,VNM,49025.2578125,Indonesia,IDN,2021
+garments,Malaysia,MYS,21466.662109375,Indonesia,IDN,2021
+garments,India,IND,15410.4443359375,Indonesia,IDN,2021
+garments,Brazil,BRA,6.965000152587891,Indonesia,IDN,2021
+garments,Argentina,ARG,0.36500000953674316,Indonesia,IDN,2021
+sugarcane,Brazil,BRA,353740.09375,Indonesia,IDN,2021
+textiles,China,CHN,663425.375,Indonesia,IDN,2021
+coffee,Brazil,BRA,477026.40625,Italy,ITA,2021
+electronics,China,CHN,4099594.25,Italy,ITA,2021
+electronics,Malaysia,MYS,11962.341796875,Italy,ITA,2021
+garments,China,CHN,2560544.25,Italy,ITA,2021
+garments,Bangladesh,BGD,1420659.25,Italy,ITA,2021
+garments,India,IND,353800.59375,Italy,ITA,2021
+garments,Vietnam,VNM,275276.9375,Italy,ITA,2021
+garments,Malaysia,MYS,4419.3349609375,Italy,ITA,2021
+garments,Brazil,BRA,1110.0369873046875,Italy,ITA,2021
+garments,Argentina,ARG,143.4429931640625,Italy,ITA,2021
+palm oil,Indonesia,IDN,769785.6875,Italy,ITA,2021
+palm oil,Malaysia,MYS,416257.9375,Italy,ITA,2021
+textiles,China,CHN,533454.8125,Italy,ITA,2021
+electronics,China,CHN,29015858.0,Japan,JPN,2021
+electronics,Malaysia,MYS,111881.8828125,Japan,JPN,2021
+fish,China,CHN,1617554.375,Japan,JPN,2021
+fish,Thailand,THA,484290.0,Japan,JPN,2021
+fish,Taiwan,TWN,376437.625,Japan,JPN,2021
+fish,Indonesia,IDN,189291.65625,Japan,JPN,2021
+fish,Ghana,GHA,1305.2760009765625,Japan,JPN,2021
+garments,China,CHN,13008247.0,Japan,JPN,2021
+garments,Vietnam,VNM,3129859.5,Japan,JPN,2021
+garments,Bangladesh,BGD,1161545.875,Japan,JPN,2021
+garments,India,IND,207493.90625,Japan,JPN,2021
+garments,Malaysia,MYS,116703.921875,Japan,JPN,2021
+garments,Brazil,BRA,1772.676025390625,Japan,JPN,2021
+garments,Argentina,ARG,399.6510009765625,Japan,JPN,2021
+solar panels,China,CHN,1887657.875,Japan,JPN,2021
+textiles,China,CHN,1805444.0,Japan,JPN,2021
+electronics,China,CHN,5553221.0,Mexico,MEX,2021
+electronics,Malaysia,MYS,178698.421875,Mexico,MEX,2021
+garments,China,CHN,1525354.5,Mexico,MEX,2021
+garments,Bangladesh,BGD,394062.15625,Mexico,MEX,2021
+garments,Vietnam,VNM,119952.5390625,Mexico,MEX,2021
+garments,India,IND,109100.53125,Mexico,MEX,2021
+garments,Malaysia,MYS,5632.60302734375,Mexico,MEX,2021
+garments,Brazil,BRA,1235.4739990234375,Mexico,MEX,2021
+solar panels,China,CHN,498915.0625,Mexico,MEX,2021
+textiles,China,CHN,476470.8125,Mexico,MEX,2021
+timber,Brazil,BRA,305541.96875,Mexico,MEX,2021
+timber,Russia,RUS,12401.9072265625,Mexico,MEX,2021
+timber,Peru,PER,8670.958984375,Mexico,MEX,2021
+cattle,Paraguay,PRY,333731.75,Russia,RUS,2021
+cattle,Brazil,BRA,129228.8203125,Russia,RUS,2021
+electronics,China,CHN,8699722.0,Russia,RUS,2021
+electronics,Malaysia,MYS,24477.50390625,Russia,RUS,2021
+garments,China,CHN,2976064.75,Russia,RUS,2021
+garments,Bangladesh,BGD,1161231.0,Russia,RUS,2021
+garments,Vietnam,VNM,399251.875,Russia,RUS,2021
+garments,India,IND,150554.34375,Russia,RUS,2021
+garments,Malaysia,MYS,7102.5390625,Russia,RUS,2021
+garments,Brazil,BRA,372.375,Russia,RUS,2021
+garments,Argentina,ARG,0.07999999821186066,Russia,RUS,2021
+palm oil,Indonesia,IDN,886350.9375,Russia,RUS,2021
+palm oil,Malaysia,MYS,15945.685546875,Russia,RUS,2021
+textiles,China,CHN,420059.46875,Russia,RUS,2021
+electronics,China,CHN,2150219.75,Saudi Arabia,SAU,2021
+electronics,Malaysia,MYS,22842.09375,Saudi Arabia,SAU,2021
+garments,China,CHN,2317822.0,Saudi Arabia,SAU,2021
+garments,India,IND,414568.28125,Saudi Arabia,SAU,2021
+garments,Bangladesh,BGD,394958.875,Saudi Arabia,SAU,2021
+garments,Vietnam,VNM,53416.36328125,Saudi Arabia,SAU,2021
+garments,Malaysia,MYS,6613.18408203125,Saudi Arabia,SAU,2021
+garments,Brazil,BRA,625.9190063476562,Saudi Arabia,SAU,2021
+garments,Argentina,ARG,10.701000213623047,Saudi Arabia,SAU,2021
+palm oil,Indonesia,IDN,480480.65625,Saudi Arabia,SAU,2021
+palm oil,Malaysia,MYS,369096.28125,Saudi Arabia,SAU,2021
+rice,India,IND,812366.0625,Saudi Arabia,SAU,2021
+sugarcane,Brazil,BRA,340234.96875,Saudi Arabia,SAU,2021
+electronics,China,CHN,2435720.75,South Africa,ZAF,2021
+electronics,Malaysia,MYS,4566.0107421875,South Africa,ZAF,2021
+garments,China,CHN,1157111.5,South Africa,ZAF,2021
+garments,Bangladesh,BGD,105395.8671875,South Africa,ZAF,2021
+garments,India,IND,97275.1875,South Africa,ZAF,2021
+garments,Vietnam,VNM,32183.537109375,South Africa,ZAF,2021
+garments,Malaysia,MYS,3157.12109375,South Africa,ZAF,2021
+garments,Brazil,BRA,455.52099609375,South Africa,ZAF,2021
+garments,Argentina,ARG,24.070999145507812,South Africa,ZAF,2021
+palm oil,Indonesia,IDN,436800.59375,South Africa,ZAF,2021
+palm oil,Malaysia,MYS,116862.7890625,South Africa,ZAF,2021
+solar panels,China,CHN,256757.1875,South Africa,ZAF,2021
+textiles,China,CHN,142187.71875,South Africa,ZAF,2021
+electronics,China,CHN,9275468.0,South Korea,KOR,2021
+electronics,Malaysia,MYS,15131.875,South Korea,KOR,2021
+fish,China,CHN,533255.5,South Korea,KOR,2021
+fish,Taiwan,TWN,114442.2109375,South Korea,KOR,2021
+fish,Indonesia,IDN,32752.544921875,South Korea,KOR,2021
+fish,Thailand,THA,22361.97265625,South Korea,KOR,2021
+fish,Ghana,GHA,1815.3460693359375,South Korea,KOR,2021
+garments,China,CHN,4882686.5,South Korea,KOR,2021
+garments,Vietnam,VNM,3020662.0,South Korea,KOR,2021
+garments,Bangladesh,BGD,443987.21875,South Korea,KOR,2021
+garments,India,IND,56823.1796875,South Korea,KOR,2021
+garments,Malaysia,MYS,8626.1708984375,South Korea,KOR,2021
+garments,Brazil,BRA,243.3629913330078,South Korea,KOR,2021
+garments,Argentina,ARG,136.18299865722656,South Korea,KOR,2021
+palm oil,Indonesia,IDN,453533.8125,South Korea,KOR,2021
+palm oil,Malaysia,MYS,373781.3125,South Korea,KOR,2021
+solar panels,China,CHN,1003782.5625,South Korea,KOR,2021
+cocoa,Côte d'Ivoire,CIV,243290.078125,Turkey,TUR,2021
+cocoa,Ghana,GHA,76298.2890625,Turkey,TUR,2021
+electronics,China,CHN,3173721.75,Turkey,TUR,2021
+electronics,Malaysia,MYS,8515.283203125,Turkey,TUR,2021
+garments,China,CHN,271492.9375,Turkey,TUR,2021
+garments,Bangladesh,BGD,190775.546875,Turkey,TUR,2021
+garments,Vietnam,VNM,63508.34375,Turkey,TUR,2021
+garments,Malaysia,MYS,27209.2890625,Turkey,TUR,2021
+garments,India,IND,23756.328125,Turkey,TUR,2021
+garments,Brazil,BRA,171.27000427246094,Turkey,TUR,2021
+garments,Argentina,ARG,64.5270004272461,Turkey,TUR,2021
+palm oil,Malaysia,MYS,659919.0,Turkey,TUR,2021
+palm oil,Indonesia,IDN,223728.875,Turkey,TUR,2021
+solar panels,China,CHN,374514.875,Turkey,TUR,2021
+electronics,China,CHN,14713414.0,United Kingdom,GBR,2021
+electronics,Malaysia,MYS,37015.90234375,United Kingdom,GBR,2021
+fish,China,CHN,230258.28125,United Kingdom,GBR,2021
+fish,Ghana,GHA,38875.24609375,United Kingdom,GBR,2021
+fish,Indonesia,IDN,18615.25390625,United Kingdom,GBR,2021
+fish,Thailand,THA,16474.927734375,United Kingdom,GBR,2021
+fish,Taiwan,TWN,760.8040161132812,United Kingdom,GBR,2021
+garments,China,CHN,5257572.0,United Kingdom,GBR,2021
+garments,Bangladesh,BGD,3009805.5,United Kingdom,GBR,2021
+garments,India,IND,1255998.125,United Kingdom,GBR,2021
+garments,Vietnam,VNM,509045.65625,United Kingdom,GBR,2021
+garments,Malaysia,MYS,22225.494140625,United Kingdom,GBR,2021
+garments,Brazil,BRA,1294.136962890625,United Kingdom,GBR,2021
+garments,Argentina,ARG,188.5540008544922,United Kingdom,GBR,2021
+textiles,China,CHN,538295.3125,United Kingdom,GBR,2021
+timber,Russia,RUS,352849.625,United Kingdom,GBR,2021
+timber,Brazil,BRA,130422.4765625,United Kingdom,GBR,2021
+timber,Peru,PER,77.20600128173828,United Kingdom,GBR,2021
+electronics,China,CHN,106158032.0,United States of America,USA,2021
+electronics,Malaysia,MYS,1427054.125,United States of America,USA,2021
+fish,China,CHN,1015842.625,United States of America,USA,2021
+fish,Thailand,THA,670362.5625,United States of America,USA,2021
+fish,Indonesia,IDN,406920.5,United States of America,USA,2021
+fish,Taiwan,TWN,144891.171875,United States of America,USA,2021
+fish,Ghana,GHA,256.760986328125,United States of America,USA,2021
+garments,China,CHN,24889568.0,United States of America,USA,2021
+garments,Vietnam,VNM,15288211.0,United States of America,USA,2021
+garments,Bangladesh,BGD,7273296.0,United States of America,USA,2021
+garments,India,IND,4657695.5,United States of America,USA,2021
+garments,Malaysia,MYS,256474.265625,United States of America,USA,2021
+garments,Brazil,BRA,25173.40234375,United States of America,USA,2021
+garments,Argentina,ARG,950.1539916992188,United States of America,USA,2021
+textiles,China,CHN,4752875.5,United States of America,USA,2021
+timber,Brazil,BRA,2107497.5,United States of America,USA,2021
+timber,Russia,RUS,549653.1875,United States of America,USA,2021
+timber,Peru,PER,8360.677734375,United States of America,USA,2021

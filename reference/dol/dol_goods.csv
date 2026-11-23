@@ -1,0 +1,479 @@
+﻿iso_code,country,good,child_labor,forced_labor,forced_child_labor,exploitation_type,edition
+AFG,Afghanistan,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+AFG,Afghanistan,Carpets,True,False,False,child labor,2024
+AFG,Afghanistan,Coal,True,False,False,child labor,2024
+AFG,Afghanistan,Poppies,True,False,False,child labor,2024
+AFG,Afghanistan,Salt,True,False,False,child labor,2024
+AGO,Angola,Diamonds,True,True,False,child labor; forced labor,2024
+ARG,Argentina,Bricks,True,False,False,child labor,2024
+ARG,Argentina,Cotton,True,False,False,child labor,2024
+ARG,Argentina,Garlic,True,False,False,child labor,2024
+ARG,Argentina,Garments,True,True,True,child labor; forced labor; forced child labor,2024
+ARG,Argentina,Grapes,True,False,False,child labor,2024
+ARG,Argentina,Olives,True,False,False,child labor,2024
+ARG,Argentina,Strawberries,True,False,False,child labor,2024
+ARG,Argentina,Tobacco,True,False,False,child labor,2024
+ARG,Argentina,Tomatoes,True,False,False,child labor,2024
+ARG,Argentina,Yerba Mate (stimulant plant),True,False,False,child labor,2024
+AZE,Azerbaijan,Cotton,True,False,False,child labor,2024
+BGD,Bangladesh,Bidis (hand-rolled cigarettes),True,False,False,child labor,2024
+BGD,Bangladesh,Bricks,True,False,False,child labor,2024
+BGD,Bangladesh,Dried Fish,True,True,True,child labor; forced labor; forced child labor,2024
+BGD,Bangladesh,Footwear,True,False,False,child labor,2024
+BGD,Bangladesh,Furniture (steel),True,False,False,child labor,2024
+BGD,Bangladesh,Garments,True,True,False,child labor; forced labor,2024
+BGD,Bangladesh,Glass,True,False,False,child labor,2024
+BGD,Bangladesh,Jute (textiles),True,False,False,child labor,2024
+BGD,Bangladesh,Leather,True,False,False,child labor,2024
+BGD,Bangladesh,Matches,True,False,False,child labor,2024
+BGD,Bangladesh,Poultry,True,False,False,child labor,2024
+BGD,Bangladesh,Salt,True,False,False,child labor,2024
+BGD,Bangladesh,Shrimp,True,False,False,child labor,2024
+BGD,Bangladesh,Soap,True,False,False,child labor,2024
+BGD,Bangladesh,Textiles,True,False,False,child labor,2024
+BLR,Belarus,Furniture,False,True,False,forced labor,2024
+BLR,Belarus,Lumber,False,True,False,forced labor,2024
+BLZ,Belize,Bananas,True,False,False,child labor,2024
+BLZ,Belize,Citrus Fruits,True,False,False,child labor,2024
+BLZ,Belize,Sugarcane,True,False,False,child labor,2024
+BEN,Benin,Cotton,True,True,True,child labor; forced labor; forced child labor,2024
+BEN,Benin,Granite (crushed),True,False,False,child labor,2024
+BOL,Bolivia,Brazil Nuts/Chestnuts,True,True,True,child labor; forced labor; forced child labor,2024
+BOL,Bolivia,Bricks,True,False,False,child labor,2024
+BOL,Bolivia,Cattle,True,True,False,child labor; forced labor,2024
+BOL,Bolivia,Coca (stimulant plant),True,False,False,child labor,2024
+BOL,Bolivia,Corn,True,True,False,child labor; forced labor,2024
+BOL,Bolivia,Gold,True,False,False,child labor,2024
+BOL,Bolivia,Lead,True,False,False,child labor,2024
+BOL,Bolivia,Peanuts,False,True,False,forced labor,2024
+BOL,Bolivia,Silver,True,False,False,child labor,2024
+BOL,Bolivia,Sugarcane,True,True,True,child labor; forced labor; forced child labor,2024
+BOL,Bolivia,Tin,True,False,False,child labor,2024
+BOL,Bolivia,Zinc,True,False,False,child labor,2024
+BRA,Brazil,Açaí Berries,True,False,False,child labor,2024
+BRA,Brazil,Bananas,True,False,False,child labor,2024
+BRA,Brazil,Beef,True,False,False,child labor,2024
+BRA,Brazil,Bricks,True,False,False,child labor,2024
+BRA,Brazil,Cashews,True,False,False,child labor,2024
+BRA,Brazil,Cattle,True,True,False,child labor; forced labor,2024
+BRA,Brazil,Ceramics,True,False,False,child labor,2024
+BRA,Brazil,Charcoal,True,True,False,child labor; forced labor,2024
+BRA,Brazil,Cocoa,True,False,False,child labor,2024
+BRA,Brazil,Coffee,True,True,False,child labor; forced labor,2024
+BRA,Brazil,Corn,True,False,False,child labor,2024
+BRA,Brazil,Cotton,True,False,False,child labor,2024
+BRA,Brazil,Fish,True,False,False,child labor,2024
+BRA,Brazil,Footwear,True,False,False,child labor,2024
+BRA,Brazil,Garments,False,True,False,forced labor,2024
+BRA,Brazil,Hogs,True,False,False,child labor,2024
+BRA,Brazil,Manioc/Cassava,True,False,False,child labor,2024
+BRA,Brazil,Pineapples,True,False,False,child labor,2024
+BRA,Brazil,Poultry,True,False,False,child labor,2024
+BRA,Brazil,Rice,True,False,False,child labor,2024
+BRA,Brazil,Sheep,True,False,False,child labor,2024
+BRA,Brazil,Sisal,True,False,False,child labor,2024
+BRA,Brazil,Sugarcane,True,True,False,child labor; forced labor,2024
+BRA,Brazil,Timber,False,True,False,forced labor,2024
+BRA,Brazil,Tobacco,True,False,False,child labor,2024
+BFA,Burkina Faso,Cotton,True,True,True,child labor; forced labor; forced child labor,2024
+BFA,Burkina Faso,Gold,True,True,True,child labor; forced labor; forced child labor,2024
+BFA,Burkina Faso,Granite,True,False,False,child labor,2024
+MMR,Burma,Bamboo,True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,"Beans (green, soy, yellow)",True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,Fish,False,True,False,forced labor,2024
+MMR,Burma,Garments,True,True,False,child labor; forced labor,2024
+MMR,Burma,Jade,True,True,False,child labor; forced labor,2024
+MMR,Burma,Palm Thatch,False,True,False,forced labor,2024
+MMR,Burma,Rice,True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,Rubber,True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,Rubies,True,True,False,child labor; forced labor,2024
+MMR,Burma,Sesame,False,True,False,forced labor,2024
+MMR,Burma,Shrimp,False,True,False,forced labor,2024
+MMR,Burma,Sugarcane,True,True,True,child labor; forced labor; forced child labor,2024
+MMR,Burma,Sunflowers,False,True,False,forced labor,2024
+MMR,Burma,Teak,True,True,True,child labor; forced labor; forced child labor,2024
+KHM,Cambodia,Alcoholic Beverages,True,False,False,child labor,2024
+KHM,Cambodia,Bovines,True,False,False,child labor,2024
+KHM,Cambodia,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+KHM,Cambodia,Fish,True,False,False,child labor,2024
+KHM,Cambodia,Manioc/Cassava,True,False,False,child labor,2024
+KHM,Cambodia,Meat,True,False,False,child labor,2024
+KHM,Cambodia,Rubber,True,False,False,child labor,2024
+KHM,Cambodia,Shrimp,True,False,False,child labor,2024
+KHM,Cambodia,Sugarcane,True,False,False,child labor,2024
+KHM,Cambodia,Textiles,True,False,False,child labor,2024
+KHM,Cambodia,Timber,True,False,False,child labor,2024
+KHM,Cambodia,Tobacco,True,False,False,child labor,2024
+CMR,Cameroon,Cocoa,True,False,False,child labor,2024
+CMR,Cameroon,Gold,True,False,False,child labor,2024
+CAF,Central African Republic,Diamonds,True,False,False,child labor,2024
+CAF,Central African Republic,Gold,True,False,False,child labor,2024
+TCD,Chad,Cattle,True,False,False,child labor,2024
+TCD,Chad,Gold,False,True,False,forced labor,2024
+CHN,China,Aluminum,False,True,False,forced labor,2024
+CHN,China,Artificial Flowers,False,True,False,forced labor,2024
+CHN,China,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+CHN,China,Caustic Soda,False,True,False,forced labor,2024
+CHN,China,Christmas Decorations,False,True,False,forced labor,2024
+CHN,China,Coal,False,True,False,forced labor,2024
+CHN,China,Cotton,True,True,True,child labor; forced labor; forced child labor,2024
+CHN,China,Electronics,True,True,True,child labor; forced labor; forced child labor,2024
+CHN,China,Fireworks,True,True,False,child labor; forced labor,2024
+CHN,China,Fish,False,True,False,forced labor,2024
+CHN,China,Footwear,False,True,False,forced labor,2024
+CHN,China,Garments,False,True,False,forced labor,2024
+CHN,China,Gloves,False,True,False,forced labor,2024
+CHN,China,Hair Products,False,True,False,forced labor,2024
+CHN,China,Jujubes,False,True,False,forced labor,2024
+CHN,China,Metallurgical Grade Silicon,False,True,False,forced labor,2024
+CHN,China,Nails,False,True,False,forced labor,2024
+CHN,China,Polysilicon,False,True,False,forced labor,2024
+CHN,China,Polyvinyl Chloride,False,True,False,forced labor,2024
+CHN,China,Squid,False,True,False,forced labor,2024
+CHN,China,Textiles,True,True,False,child labor; forced labor,2024
+CHN,China,Thread/Yarn,False,True,False,forced labor,2024
+CHN,China,Tomato Products,False,True,False,forced labor,2024
+CHN,China,Toys,True,True,True,child labor; forced labor; forced child labor,2024
+COL,Colombia,Bricks (clay),True,False,False,child labor,2024
+COL,Colombia,Coal,True,False,False,child labor,2024
+COL,Colombia,Coca (stimulant plant),True,True,True,child labor; forced labor; forced child labor,2024
+COL,Colombia,Coffee,True,False,False,child labor,2024
+COL,Colombia,Emeralds,True,False,False,child labor,2024
+COL,Colombia,Fruits (Pome and Stone),True,False,False,child labor,2024
+COL,Colombia,Gold,True,False,False,child labor,2024
+COL,Colombia,Grapes,True,False,False,child labor,2024
+COL,Colombia,Pornography,True,False,False,child labor,2024
+COL,Colombia,Sugarcane,True,False,False,child labor,2024
+CRI,Costa Rica,Cattle,True,False,False,child labor,2024
+CRI,Costa Rica,Coffee,True,False,False,child labor,2024
+CIV,Côte d'Ivoire,Cocoa,True,True,True,child labor; forced labor; forced child labor,2024
+CIV,Côte d'Ivoire,Coffee,True,True,True,child labor; forced labor; forced child labor,2024
+COD,Democratic Republic of the Congo,Cobalt Ore (heterogenite),True,True,False,child labor; forced labor,2024
+COD,Democratic Republic of the Congo,Copper Ore,True,False,False,child labor,2024
+COD,Democratic Republic of the Congo,Diamonds,True,False,False,child labor,2024
+COD,Democratic Republic of the Congo,Gold,True,True,True,child labor; forced labor; forced child labor,2024
+COD,Democratic Republic of the Congo,Tantalum Ore (coltan),True,True,True,child labor; forced labor; forced child labor,2024
+COD,Democratic Republic of the Congo,Tin Ore (cassiterite),True,True,True,child labor; forced labor; forced child labor,2024
+COD,Democratic Republic of the Congo,Tungsten Ore (wolframite),True,True,True,child labor; forced labor; forced child labor,2024
+DOM,Dominican Republic,Baked Goods,True,False,False,child labor,2024
+DOM,Dominican Republic,Coffee,True,False,False,child labor,2024
+DOM,Dominican Republic,Rice,True,False,False,child labor,2024
+DOM,Dominican Republic,Sugarcane,True,True,False,child labor; forced labor,2024
+DOM,Dominican Republic,Tomatoes,True,False,False,child labor,2024
+ECU,Ecuador,Bananas,True,False,False,child labor,2024
+ECU,Ecuador,Bovines,True,False,False,child labor,2024
+ECU,Ecuador,Bricks,True,False,False,child labor,2024
+ECU,Ecuador,Flowers,True,False,False,child labor,2024
+ECU,Ecuador,Gold,True,False,False,child labor,2024
+ECU,Ecuador,Hogs,True,False,False,child labor,2024
+ECU,Ecuador,Poultry,True,False,False,child labor,2024
+ECU,Ecuador,Rice,True,False,False,child labor,2024
+EGY,Egypt,Bricks,True,False,False,child labor,2024
+EGY,Egypt,Cotton,True,False,False,child labor,2024
+EGY,Egypt,Stones (limestone),True,False,False,child labor,2024
+SLV,El Salvador,Baked Goods,True,False,False,child labor,2024
+SLV,El Salvador,Cattle,True,False,False,child labor,2024
+SLV,El Salvador,Cereal Grains,True,False,False,child labor,2024
+SLV,El Salvador,Coffee,True,False,False,child labor,2024
+SLV,El Salvador,Fireworks,True,False,False,child labor,2024
+SLV,El Salvador,Shellfish,True,False,False,child labor,2024
+SLV,El Salvador,Sugarcane,True,False,False,child labor,2024
+SWZ,Eswatini,Bovines,True,False,False,child labor,2024
+ETH,Ethiopia,Cattle,True,False,False,child labor,2024
+ETH,Ethiopia,Gold,True,False,False,child labor,2024
+ETH,Ethiopia,Khat (stimulant),True,False,False,child labor,2024
+ETH,Ethiopia,Textiles (hand-woven),True,True,True,child labor; forced labor; forced child labor,2024
+GHA,Ghana,Bovines,True,False,False,child labor,2024
+GHA,Ghana,Cocoa,True,False,False,child labor,2024
+GHA,Ghana,Fish,True,True,True,child labor; forced labor; forced child labor,2024
+GHA,Ghana,Gold,True,False,False,child labor,2024
+GHA,Ghana,Rice,True,False,False,child labor,2024
+GHA,Ghana,Textiles,True,False,False,child labor,2024
+GHA,Ghana,Tilapia (fish),True,True,True,child labor; forced labor; forced child labor,2024
+GTM,Guatemala,Broccoli,True,False,False,child labor,2024
+GTM,Guatemala,Coffee,True,False,False,child labor,2024
+GTM,Guatemala,Corn,True,False,False,child labor,2024
+GTM,Guatemala,Fireworks,True,False,False,child labor,2024
+GTM,Guatemala,Gravel (crushed stones),True,False,False,child labor,2024
+GTM,Guatemala,Sugarcane,True,False,False,child labor,2024
+GIN,Guinea,Cashews,True,False,False,child labor,2024
+GIN,Guinea,Cocoa,True,False,False,child labor,2024
+GIN,Guinea,Coffee,True,False,False,child labor,2024
+GIN,Guinea,Diamonds,True,False,False,child labor,2024
+GIN,Guinea,Gold,True,False,False,child labor,2024
+HND,Honduras,Coffee,True,False,False,child labor,2024
+HND,Honduras,Lobsters,True,False,False,child labor,2024
+HND,Honduras,Melons,True,False,False,child labor,2024
+IND,India,Bidis (hand-rolled cigarettes),True,False,False,child labor,2024
+IND,India,Brassware,True,False,False,child labor,2024
+IND,India,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Carpets,True,True,False,child labor; forced labor,2024
+IND,India,Cotton,True,False,False,child labor,2024
+IND,India,Cottonseed (hybrid),True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Embellished Textiles,True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Fireworks,True,False,False,child labor,2024
+IND,India,Footwear,True,False,False,child labor,2024
+IND,India,Garments,True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Gems,True,False,False,child labor,2024
+IND,India,Glass Bangles,True,False,False,child labor,2024
+IND,India,Incense (agarbatti),True,False,False,child labor,2024
+IND,India,Leather Goods/Accessories,True,False,False,child labor,2024
+IND,India,Locks,True,False,False,child labor,2024
+IND,India,Matches,True,False,False,child labor,2024
+IND,India,Mica,True,False,False,child labor,2024
+IND,India,Recovered Metals (electronic waste),True,False,False,child labor,2024
+IND,India,Rice,True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Sandstone,True,True,False,child labor; forced labor,2024
+IND,India,Shrimp,False,True,False,forced labor,2024
+IND,India,Silk Fabric,True,False,False,child labor,2024
+IND,India,Silk Thread,True,False,False,child labor,2024
+IND,India,Soccer Balls,True,False,False,child labor,2024
+IND,India,Stones,True,True,True,child labor; forced labor; forced child labor,2024
+IND,India,Sugarcane,True,True,False,child labor; forced labor,2024
+IND,India,Tea,False,True,False,forced labor,2024
+IND,India,Thread/Yarn,True,True,False,child labor; forced labor,2024
+IDN,Indonesia,Fish,True,True,False,child labor; forced labor,2024
+IDN,Indonesia,Footwear (sandals),True,False,False,child labor,2024
+IDN,Indonesia,Gold,True,False,False,child labor,2024
+IDN,Indonesia,Nickel,False,True,False,forced labor,2024
+IDN,Indonesia,Palm Fruit,True,True,False,child labor; forced labor,2024
+IDN,Indonesia,Rubber,True,False,False,child labor,2024
+IDN,Indonesia,Tin,True,False,False,child labor,2024
+IDN,Indonesia,Tobacco,True,False,False,child labor,2024
+IRN,Iran,Bricks,True,False,False,child labor,2024
+IRN,Iran,Carpets,True,False,False,child labor,2024
+KAZ,Kazakhstan,Cotton,True,True,False,child labor; forced labor,2024
+KEN,Kenya,Cattle,True,False,False,child labor,2024
+KEN,Kenya,Coffee,True,False,False,child labor,2024
+KEN,Kenya,Fish,True,False,False,child labor,2024
+KEN,Kenya,Gold,True,False,False,child labor,2024
+KEN,Kenya,Khat/Miraa (stimulant plant),True,False,False,child labor,2024
+KEN,Kenya,Rice,True,False,False,child labor,2024
+KEN,Kenya,Sand,True,False,False,child labor,2024
+KEN,Kenya,Sisal,True,False,False,child labor,2024
+KEN,Kenya,Stones,True,False,False,child labor,2024
+KEN,Kenya,Sugarcane,True,False,False,child labor,2024
+KEN,Kenya,Tea,True,False,False,child labor,2024
+KEN,Kenya,Tobacco,True,False,False,child labor,2024
+KGZ,Kyrgyz Republic,Cotton,True,False,False,child labor,2024
+KGZ,Kyrgyz Republic,Tobacco,True,False,False,child labor,2024
+LBN,Lebanon,Potatoes,True,False,False,child labor,2024
+LBN,Lebanon,Tobacco,True,False,False,child labor,2024
+LSO,Lesotho,Cattle,True,False,False,child labor,2024
+LBR,Liberia,Diamonds,True,False,False,child labor,2024
+LBR,Liberia,Rubber,True,False,False,child labor,2024
+MDG,Madagascar,Mica,True,False,False,child labor,2024
+MDG,Madagascar,Sapphires,True,False,False,child labor,2024
+MDG,Madagascar,Stones,True,False,False,child labor,2024
+MDG,Madagascar,Vanilla,True,False,False,child labor,2024
+MWI,Malawi,Tea,True,False,False,child labor,2024
+MWI,Malawi,Tobacco,True,True,True,child labor; forced labor; forced child labor,2024
+MYS,Malaysia,Electronics,False,True,False,forced labor,2024
+MYS,Malaysia,Garments,False,True,False,forced labor,2024
+MYS,Malaysia,Palm Fruit,True,True,False,child labor; forced labor,2024
+MYS,Malaysia,Rubber Gloves,False,True,False,forced labor,2024
+MLI,Mali,Cotton,True,False,False,child labor,2024
+MLI,Mali,Gold,True,False,False,child labor,2024
+MLI,Mali,Rice,True,True,True,child labor; forced labor; forced child labor,2024
+MRT,Mauritania,Cattle,True,False,False,child labor,2024
+MRT,Mauritania,Goats,True,False,False,child labor,2024
+MUS,Mauritius,Garments,False,True,False,forced labor,2024
+MEX,Mexico,Beans (green beans),True,False,False,child labor,2024
+MEX,Mexico,Cattle,True,False,False,child labor,2024
+MEX,Mexico,Chile Peppers,True,True,False,child labor; forced labor,2024
+MEX,Mexico,Coffee,True,False,False,child labor,2024
+MEX,Mexico,Cucumbers,True,False,False,child labor,2024
+MEX,Mexico,Eggplants,True,False,False,child labor,2024
+MEX,Mexico,Garments,True,False,False,child labor,2024
+MEX,Mexico,Leather Goods/Accessories,True,False,False,child labor,2024
+MEX,Mexico,Melons,True,False,False,child labor,2024
+MEX,Mexico,Onions,True,False,False,child labor,2024
+MEX,Mexico,Poppies,True,False,False,child labor,2024
+MEX,Mexico,Pornography,True,False,False,child labor,2024
+MEX,Mexico,Sugarcane,True,False,False,child labor,2024
+MEX,Mexico,Tobacco,True,False,False,child labor,2024
+MEX,Mexico,Tomatoes,True,True,False,child labor; forced labor,2024
+MNG,Mongolia,Coal,True,False,False,child labor,2024
+MNG,Mongolia,Gold,True,False,False,child labor,2024
+MOZ,Mozambique,Tobacco,True,False,False,child labor,2024
+NPL,Nepal,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+NPL,Nepal,Carpets,True,True,True,child labor; forced labor; forced child labor,2024
+NPL,Nepal,Embellished Textiles,True,True,True,child labor; forced labor; forced child labor,2024
+NPL,Nepal,Stones,True,True,True,child labor; forced labor; forced child labor,2024
+NIC,Nicaragua,Bananas,True,False,False,child labor,2024
+NIC,Nicaragua,Coffee,True,False,False,child labor,2024
+NIC,Nicaragua,Gold,True,False,False,child labor,2024
+NIC,Nicaragua,Gravel (crushed stones),True,False,False,child labor,2024
+NIC,Nicaragua,Shellfish,True,False,False,child labor,2024
+NIC,Nicaragua,Stones (pumice),True,False,False,child labor,2024
+NIC,Nicaragua,Tobacco,True,False,False,child labor,2024
+NER,Niger,Cattle,False,True,False,forced labor,2024
+NER,Niger,Gold,True,False,False,child labor,2024
+NER,Niger,Gypsum (mineral),True,False,False,child labor,2024
+NER,Niger,Salt,True,False,False,child labor,2024
+NER,Niger,Trona (mineral),True,False,False,child labor,2024
+NGA,Nigeria,Cocoa,True,True,True,child labor; forced labor; forced child labor,2024
+NGA,Nigeria,Gold,True,False,False,child labor,2024
+NGA,Nigeria,Granite,True,True,True,child labor; forced labor; forced child labor,2024
+NGA,Nigeria,Gravel (crushed stones),True,True,True,child labor; forced labor; forced child labor,2024
+NGA,Nigeria,Manioc/Cassava,True,False,False,child labor,2024
+NGA,Nigeria,Sand,True,False,False,child labor,2024
+PRK,North Korea,Bricks,False,True,False,forced labor,2024
+PRK,North Korea,Cement,False,True,False,forced labor,2024
+PRK,North Korea,Coal,False,True,False,forced labor,2024
+PRK,North Korea,Gold,False,True,False,forced labor,2024
+PRK,North Korea,Iron,False,True,False,forced labor,2024
+PRK,North Korea,Textiles,False,True,False,forced labor,2024
+PRK,North Korea,Timber,False,True,False,forced labor,2024
+PAK,Pakistan,Baked Goods,True,False,False,child labor,2024
+PAK,Pakistan,Bovines,True,False,False,child labor,2024
+PAK,Pakistan,Bricks,True,True,True,child labor; forced labor; forced child labor,2024
+PAK,Pakistan,Carpets,True,True,True,child labor; forced labor; forced child labor,2024
+PAK,Pakistan,Coal,True,True,True,child labor; forced labor; forced child labor,2024
+PAK,Pakistan,Cotton,False,True,False,forced labor,2024
+PAK,Pakistan,Dairy Products,True,False,False,child labor,2024
+PAK,Pakistan,Electronics,True,False,False,child labor,2024
+PAK,Pakistan,Furniture,True,False,False,child labor,2024
+PAK,Pakistan,Garments,True,False,False,child labor,2024
+PAK,Pakistan,Glass Bangles,True,False,False,child labor,2024
+PAK,Pakistan,Leather,True,False,False,child labor,2024
+PAK,Pakistan,Rice,True,False,False,child labor,2024
+PAK,Pakistan,Sugarcane,False,True,False,forced labor,2024
+PAK,Pakistan,Surgical Instruments,True,False,False,child labor,2024
+PAK,Pakistan,Textiles,True,False,False,child labor,2024
+PAK,Pakistan,Wheat,False,True,False,forced labor,2024
+PAN,Panama,Coffee,True,False,False,child labor,2024
+PAN,Panama,Melons,True,False,False,child labor,2024
+PRY,Paraguay,Beans,True,False,False,child labor,2024
+PRY,Paraguay,Bricks,True,False,False,child labor,2024
+PRY,Paraguay,Cabbages,True,False,False,child labor,2024
+PRY,Paraguay,Carrots,True,False,False,child labor,2024
+PRY,Paraguay,Cattle,True,True,False,child labor; forced labor,2024
+PRY,Paraguay,Corn,True,False,False,child labor,2024
+PRY,Paraguay,Fish,True,False,False,child labor,2024
+PRY,Paraguay,Goats,True,False,False,child labor,2024
+PRY,Paraguay,Hogs,True,False,False,child labor,2024
+PRY,Paraguay,Lettuce,True,False,False,child labor,2024
+PRY,Paraguay,Manioc/Cassava,True,False,False,child labor,2024
+PRY,Paraguay,Melons,True,False,False,child labor,2024
+PRY,Paraguay,Onions,True,False,False,child labor,2024
+PRY,Paraguay,Peanuts,True,False,False,child labor,2024
+PRY,Paraguay,Peppers,True,False,False,child labor,2024
+PRY,Paraguay,Pornography,True,False,False,child labor,2024
+PRY,Paraguay,Poultry,True,False,False,child labor,2024
+PRY,Paraguay,Sesame,True,False,False,child labor,2024
+PRY,Paraguay,Sheep,True,False,False,child labor,2024
+PRY,Paraguay,Stones (limestone),True,False,False,child labor,2024
+PRY,Paraguay,Sugarcane,True,False,False,child labor,2024
+PRY,Paraguay,Sweet Potatoes,True,False,False,child labor,2024
+PRY,Paraguay,Tomatoes,True,False,False,child labor,2024
+PRY,Paraguay,Yerba Mate (stimulant plant),True,False,False,child labor,2024
+PER,Peru,Brazil Nuts/Chestnuts,False,True,False,forced labor,2024
+PER,Peru,Bricks,True,False,False,child labor,2024
+PER,Peru,Coca (stimulant plant),True,False,False,child labor,2024
+PER,Peru,Fireworks,True,False,False,child labor,2024
+PER,Peru,Fish,True,False,False,child labor,2024
+PER,Peru,Gold,True,True,False,child labor; forced labor,2024
+PER,Peru,Timber,False,True,False,forced labor,2024
+PHL,Philippines,Bananas,True,False,False,child labor,2024
+PHL,Philippines,Coconuts,True,False,False,child labor,2024
+PHL,Philippines,Corn,True,False,False,child labor,2024
+PHL,Philippines,Fashion Accessories,True,False,False,child labor,2024
+PHL,Philippines,Fish,True,False,False,child labor,2024
+PHL,Philippines,Gold,True,False,False,child labor,2024
+PHL,Philippines,Hogs,True,False,False,child labor,2024
+PHL,Philippines,Pornography,True,False,False,child labor,2024
+PHL,Philippines,Pyrotechnics,True,False,False,child labor,2024
+PHL,Philippines,Rice,True,False,False,child labor,2024
+PHL,Philippines,Rubber,True,False,False,child labor,2024
+PHL,Philippines,Sugarcane,True,False,False,child labor,2024
+PHL,Philippines,Tobacco,True,False,False,child labor,2024
+RUS,Russia,Bricks,False,True,False,forced labor,2024
+RUS,Russia,Pornography,True,True,True,child labor; forced labor; forced child labor,2024
+RUS,Russia,Timber,False,True,False,forced labor,2024
+RWA,Rwanda,Tea,True,False,False,child labor,2024
+SEN,Senegal,Gold,True,False,False,child labor,2024
+SLE,Sierra Leone,Cocoa,True,False,False,child labor,2024
+SLE,Sierra Leone,Coffee,True,False,False,child labor,2024
+SLE,Sierra Leone,Diamonds,True,True,True,child labor; forced labor; forced child labor,2024
+SLE,Sierra Leone,Granite,True,False,False,child labor,2024
+SLE,Sierra Leone,Palm Fruit,True,False,False,child labor,2024
+SSD,South Sudan,Cattle,True,True,True,child labor; forced labor; forced child labor,2024
+SDN,Sudan,Gold,True,False,False,child labor,2024
+SUR,Suriname,Gold,True,False,False,child labor,2024
+TWN,Taiwan,Fish,False,True,False,forced labor,2024
+TJK,Tajikistan,Cotton,True,True,True,child labor; forced labor; forced child labor,2024
+TZA,Tanzania,Cattle,True,False,False,child labor,2024
+TZA,Tanzania,Cloves,True,False,False,child labor,2024
+TZA,Tanzania,Coffee,True,False,False,child labor,2024
+TZA,Tanzania,Gold,True,False,False,child labor,2024
+TZA,Tanzania,Nile Perch (fish),True,False,False,child labor,2024
+TZA,Tanzania,Rice,True,False,False,child labor,2024
+TZA,Tanzania,Sisal,True,False,False,child labor,2024
+TZA,Tanzania,Stones,True,False,False,child labor,2024
+TZA,Tanzania,Tanzanite (gems),True,False,False,child labor,2024
+TZA,Tanzania,Tea,True,False,False,child labor,2024
+TZA,Tanzania,Tobacco,True,False,False,child labor,2024
+THA,Thailand,Fish,False,True,False,forced labor,2024
+THA,Thailand,Garments,True,True,True,child labor; forced labor; forced child labor,2024
+THA,Thailand,Pornography,True,False,False,child labor,2024
+THA,Thailand,Shrimp,False,True,False,forced labor,2024
+THA,Thailand,Sugarcane,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Citrus Fruits,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Cotton,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Cumin,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Footwear,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Furniture,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Garments,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Hazelnuts,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Peanuts,True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Pulses (legumes),True,False,False,child labor,2024
+TUR,Turkey (Türkiye),Sugar Beets,True,False,False,child labor,2024
+TKM,Turkmenistan,Cotton,True,True,False,child labor; forced labor,2024
+UGA,Uganda,Bricks,True,False,False,child labor,2024
+UGA,Uganda,Cattle,True,False,False,child labor,2024
+UGA,Uganda,Charcoal,True,False,False,child labor,2024
+UGA,Uganda,Coffee,True,False,False,child labor,2024
+UGA,Uganda,Fish,True,False,False,child labor,2024
+UGA,Uganda,Gold,True,False,False,child labor,2024
+UGA,Uganda,Rice,True,False,False,child labor,2024
+UGA,Uganda,Sand,True,False,False,child labor,2024
+UGA,Uganda,Stones,True,False,False,child labor,2024
+UGA,Uganda,Sugarcane,True,False,False,child labor,2024
+UGA,Uganda,Tea,True,False,False,child labor,2024
+UGA,Uganda,Tobacco,True,False,False,child labor,2024
+UGA,Uganda,Vanilla,True,False,False,child labor,2024
+UKR,Ukraine,Amber,True,False,False,child labor,2024
+UKR,Ukraine,Coal,True,False,False,child labor,2024
+UKR,Ukraine,Pornography,True,False,False,child labor,2024
+UZB,Uzbekistan,Silk Cocoons,False,True,False,forced labor,2024
+VEN,Venezuela,Gold,True,True,False,child labor; forced labor,2024
+VNM,Vietnam,Bricks,True,False,False,child labor,2024
+VNM,Vietnam,Cashews,True,False,False,child labor,2024
+VNM,Vietnam,Coffee,True,False,False,child labor,2024
+VNM,Vietnam,Fish,True,False,False,child labor,2024
+VNM,Vietnam,Footwear,True,False,False,child labor,2024
+VNM,Vietnam,Furniture,True,False,False,child labor,2024
+VNM,Vietnam,Garments,True,True,False,child labor; forced labor,2024
+VNM,Vietnam,Leather,True,False,False,child labor,2024
+VNM,Vietnam,Pepper,True,False,False,child labor,2024
+VNM,Vietnam,Rice,True,False,False,child labor,2024
+VNM,Vietnam,Rubber,True,False,False,child labor,2024
+VNM,Vietnam,Sugarcane,True,False,False,child labor,2024
+VNM,Vietnam,Tea,True,False,False,child labor,2024
+VNM,Vietnam,Textiles,True,False,False,child labor,2024
+VNM,Vietnam,Timber,True,False,False,child labor,2024
+VNM,Vietnam,Tobacco,True,False,False,child labor,2024
+YEM,Yemen,Fish,True,False,False,child labor,2024
+ZMB,Zambia,Cattle,True,False,False,child labor,2024
+ZMB,Zambia,Copper Ore,True,False,False,child labor,2024
+ZMB,Zambia,Cotton,True,False,False,child labor,2024
+ZMB,Zambia,Gems,True,False,False,child labor,2024
+ZMB,Zambia,Manganese,True,False,False,child labor,2024
+ZMB,Zambia,Stones,True,False,False,child labor,2024
+ZMB,Zambia,Tobacco,True,False,False,child labor,2024
+ZWE,Zimbabwe,Gold,True,False,False,child labor,2024
+ZWE,Zimbabwe,Lithium,True,False,False,child labor,2024
+ZWE,Zimbabwe,Sugarcane,True,False,False,child labor,2024
+ZWE,Zimbabwe,Tobacco,True,False,False,child labor,2024

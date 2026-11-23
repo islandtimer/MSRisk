@@ -1,0 +1,97 @@
+{
+  "run_timestamp_utc": "2026-11-06T00:54:14+00:00",
+  "source": "https://www.walkfree.org/global-slavery-index/downloads/ (Global Slavery Index 2023 Dataset)",
+  "licence": "Global Slavery Index Data Licence (accepted 2026-11-06). Credit required: Global Slavery Index 2023 Dataset, Minderoo Foundation, available from: www.globalslaveryindex.org",
+  "files": {
+    "2023-Global-Slavery-Index-Data.zip": {
+      "bytes": 703242,
+      "sha256": "36e13c22e531ba620cbd332c9889a1b8e62679a524e002e5aac37b27500466cb"
+    },
+    "2023-Global-Slavery-Index-Data.xlsx": {
+      "bytes": 796959,
+      "sha256": "36862bf1e2ee857f828eba30f9f587f8855ed97e825e8dbd3de93669f745098f"
+    }
+  },
+  "country_match_methods": {
+    "exact": 160,
+    "crosswalk": 21,
+    "normalised": 1
+  },
+  "gsi_countries_not_in_flo": [
+    "Hong Kong",
+    "Kosovo",
+    "Liechtenstein",
+    "North Korea",
+    "Taiwan"
+  ],
+  "flo_countries_not_in_gsi": [
+    "Comoros",
+    "Cook Islands",
+    "Dominica",
+    "Grenada",
+    "Kiribati",
+    "Marshall Islands",
+    "Saint Kitts and Nevis",
+    "Samoa",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Tonga",
+    "Tuvalu"
+  ],
+  "tables": {
+    "gsi_country_summary": 180,
+    "gsi_govt_response_framework": 141,
+    "gsi_govt_response_indicators": 24816,
+    "gsi_govt_response_activities": 176,
+    "gsi_g20_import_risk": 263,
+    "gsi_beyond_compliance_cocoa": 39,
+    "gsi_beyond_compliance_garments": 99,
+    "gsi_beyond_compliance_investors": 91,
+    "gsi_beyond_compliance_social_media": 10,
+    "gsi_beyond_compliance_summary": 26,
+    "gsi_vulnerability_codebook": 23,
+    "gsi_g20_codebook": 84
+  },
+  "checks": {
+    "summary_rows": {
+      "passed": true,
+      "detail": "180 countries (CONTENTS: 160 prevalence, 176 government response)"
+    },
+    "prevalence_count": {
+      "passed": true,
+      "detail": "160 with prevalence"
+    },
+    "govt_response_count": {
+      "passed": true,
+      "detail": "176 with government response"
+    },
+    "iso_unique": {
+      "passed": 1,
+      "detail": "every GSI country has one ISO code"
+    },
+    "indicators_shape": {
+      "passed": true,
+      "detail": "24816 rows (176 x 141)"
+    },
+    "g20_shape": {
+      "passed": true,
+      "detail": "263 rows, 19 importers"
+    },
+    "beyond_cocoa_rows": {
+      "passed": true,
+      "detail": "39 companies; sheet says [39] in scope"
+    },
+    "beyond_garments_rows": {
+      "passed": true,
+      "detail": "99 companies; sheet says [99] in scope"
+    },
+    "beyond_investors_rows": {
+      "passed": true,
+      "detail": "91 companies; sheet says [91] in scope"
+    },
+    "beyond_social_media_rows": {
+      "passed": true,
+      "detail": "10 companies; sheet says [10] in scope"
+    }
+  }
+}
